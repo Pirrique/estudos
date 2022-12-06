@@ -1,2 +1,2 @@
 # Estudos Iniciais.
-Arquivos e pastas de estudos.
+Arquivos e pastas de estudos para o primeiro repositório.
